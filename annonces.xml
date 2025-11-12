@@ -192,7 +192,7 @@
     <CodeAgence>03</CodeAgence>
     <NomAgence>ATRIUM - CBRE</NomAgence>
     <CodeSite>0001</CodeSite>
-    <RefQIE>63.0004</RefQIE>
+    <RefQIE>63.0005</RefQIE>
     <DateCreation>21/01/2025</DateCreation>
     <DateModification>06/03/2025</DateModification>
     <ContactNom>LEFEBVRE</ContactNom>
@@ -223,8 +223,8 @@
     <SurfaceTotale>681</SurfaceTotale>
     <Divisible>Non</Divisible>
     <DivMini>0</DivMini>
-    <VenteMontant>120000</LocationMontant>
-    <VenteUnite>€</LocationUnite>
+    <VenteMontant>120000</VenteMontant>
+    <VenteUnite>€</VenteUnite>
     <Photos>
       <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A1957.jpg</Photo>
       <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A6071.jpg</Photo>

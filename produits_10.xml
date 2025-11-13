@@ -6,7 +6,7 @@
     <CodeSite>0001</CodeSite>
     <RefQIE>63.0001</RefQIE>
     <DateCreation>20/10/2022</DateCreation>
-    <DateModification>04/12/2024</DateModification>
+    <DateModification>13/11/2025</DateModification>
     <ContactNom>CHAPELLE</ContactNom>
     <ContactPrenom>Fabien</ContactPrenom>
     <ContactTelephone>04.73.28.78.28</ContactTelephone>
@@ -17,7 +17,7 @@
     <DebutMandat>04/12/2024</DebutMandat>
     <FinMandat>03/12/2026</FinMandat>
     <Descriptif>
-      Clermont-Ferrand / Zone du Brézet
+      Clermont-Ferrand / Zone du Brézet exemple date de modification changée
     </Descriptif>
     <Departement>63</Departement>
     <CodePostal>63000</CodePostal>

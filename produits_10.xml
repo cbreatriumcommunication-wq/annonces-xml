@@ -70,4 +70,39 @@
       <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A6085.jpg</Photo>
     </Photos>
   </Produit>
+  <Produit>
+    <CodeAgence>03</CodeAgence>
+    <NomAgence>ATRIUM - CBRE</NomAgence>
+    <CodeSite>0001</CodeSite>
+    <RefQIE>63.0003</RefQIE>
+    <DateCreation>20/10/2022</DateCreation>
+    <DateModification>13/11/2025</DateModification>
+    <ContactNom>CHAPELLE</ContactNom>
+    <ContactPrenom>Fabien</ContactPrenom>
+    <ContactTelephone>04.73.28.78.28</ContactTelephone>
+    <ContactPortable>06.98.71.13.83</ContactPortable>
+    <ContactEmail>contact@atrium-cbre.com</ContactEmail>
+    <RefMandat>211375</RefMandat>
+    <TypeMandat>Simple</TypeMandat>
+    <DebutMandat>04/12/2024</DebutMandat>
+    <FinMandat>03/12/2026</FinMandat>
+    <Descriptif>
+      Clermont-Ferrand / Zone du Brézet
+    </Descriptif>
+    <Departement>63</Departement>
+    <CodePostal>63000</CodePostal>
+    <Ville>CLERMONT FERRAND</Ville>
+    <Disponibilite>4ème trimestre 2026</Disponibilite>
+    <TypeTransaction>Vente</TypeTransaction>
+    <TypeLocal>Activités</TypeLocal>
+    <SurfaceTotale>356</SurfaceTotale>
+    <Divisible>Non</Divisible>
+    <DivMini>0</DivMini>
+    <VenteMontant>533740</VenteMontant>
+    <VenteUnite>€</VenteUnite>
+    <Photos>
+      <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A6071.jpg</Photo>
+      <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A6085.jpg</Photo>
+    </Photos>
+  </Produit>
 </Produits>

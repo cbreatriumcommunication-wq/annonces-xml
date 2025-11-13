@@ -63,8 +63,8 @@
     <SurfaceTotale>356</SurfaceTotale>
     <Divisible>Non</Divisible>
     <DivMini>0</DivMini>
-    <LocationMontant>20000</VenteMontant>
-    <LocationUnite>€/an</VenteUnite>
+    <LocationMontant>20000</LocationMontant>
+    <LocationUnite>€/an</LocationUnite>
     <Photos>
       <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A6071.jpg</Photo>
       <Photo>https://raw.githubusercontent.com/flowassets/photos-annonces/9c5f884435468a62a96af6ee7645c3a5bbfd67cd/L24A6085.jpg</Photo>
